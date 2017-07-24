@@ -81,8 +81,6 @@ fi
     -s ../../MaxMind-DB-Reader-php/src \
     -d "doc/$tag" \
     --title "GeoIP2 PHP API $tag" \
-    --template-theme bootstrap \
-    --exclude "Compat" \
     --php
 
 
